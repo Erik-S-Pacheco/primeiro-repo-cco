@@ -1,6 +1,7 @@
 A:
-Amor 
 Abacaxi
 
 M:
 Melão
+Melancia
+Maça
